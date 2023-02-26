@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:zhenya30000/terraforming-mars.git
